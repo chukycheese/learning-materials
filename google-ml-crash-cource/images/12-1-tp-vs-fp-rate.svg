@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="419.64999"
+   height="255.14999"
+   aria-label="A chart."
+   style="overflow:hidden"
+   version="1.1"
+   id="svg42">
+  <desc>ROC Curve showing TP Rate vs. FP Rate at different classification thresholds.</desc>
+  <metadata
+     id="metadata46">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs">
+    <clipPath
+       id="_ABSTRACT_RENDERER_ID_37">
+      <rect
+         x="30"
+         y="0"
+         width="789"
+         height="480"
+         id="rect2" />
+    </clipPath>
+  </defs>
+  <g
+     transform="scale(0.50000001)"
+     id="g850">
+    <rect
+       style="fill:#ffffff;stroke:none;stroke-width:0"
+       id="rect6"
+       height="510.29999"
+       width="839.29999"
+       y="0"
+       x="0" />
+    <g
+       id="g24">
+      <rect
+         style="fill:#ffffff;fill-opacity:0;stroke:none;stroke-width:0"
+         id="rect8"
+         height="480"
+         width="789"
+         y="0"
+         x="30" />
+      <g
+         id="g20">
+        <g
+           id="g14">
+          <rect
+             style="fill:#333333;stroke:none;stroke-width:0"
+             id="rect10"
+             height="480"
+             width="1"
+             y="0"
+             x="30" />
+          <rect
+             style="fill:#333333;stroke:none;stroke-width:0"
+             id="rect12"
+             height="1"
+             width="789"
+             y="479"
+             x="30" />
+        </g>
+        <g
+           id="g18">
+          <path
+             style="fill:none;fill-opacity:1;stroke:#3366cc;stroke-width:3"
+             id="path16"
+             d="m 30.5,479.5 c 0,0 50.031746,-49.49667 56.285714,-57.48 6.253969,-7.98333 12.507937,-19.16 18.761906,-28.74 6.25397,-9.58 12.50794,-20.75667 18.7619,-28.74 6.25397,-7.98333 21.88889,-21.95417 28.14286,-28.74 6.25397,-6.78583 12.50794,-12.90639 18.76191,-21.555 6.25396,-8.64861 18.7619,-32.53208 28.14285,-45.505 9.38096,-12.97292 25.01588,-31.66722 37.52381,-43.11 12.50794,-11.44278 37.52381,-27.14333 56.28572,-38.32 18.7619,-11.17667 53.15873,-27.94167 75.04762,-38.32 21.88888,-10.37833 43.77777,-19.16 65.66666,-28.74 21.88889,-9.58 43.77778,-19.95833 65.66667,-28.74 C 521.43651,82.728333 543.3254,74.03537 565.21429,67.56 587.10317,61.08463 621.5,52.391667 649.64286,48.4 677.78571,44.408333 705.92857,46.005 734.07143,43.61 762.21429,41.215 818.5,34.03 818.5,34.03" />
+        </g>
+      </g>
+      <g
+         id="g22" />
+    </g>
+    <g
+       id="g38">
+      <g
+         id="g30">
+        <text
+           style="font-style:italic;font-size:18px;font-family:Arial;text-anchor:middle;fill:#222222;stroke:none;stroke-width:0"
+           id="text26"
+           font-style="italic"
+           font-size="18"
+           y="501.45001"
+           x="424.5">FP Rate</text>
+        <rect
+           style="fill:#ffffff;fill-opacity:0;stroke:none;stroke-width:0"
+           id="rect28"
+           height="18"
+           width="789"
+           y="486.14999"
+           x="30" />
+      </g>
+      <g
+         id="g36">
+        <text
+           style="font-style:italic;font-size:18px;font-family:Arial;text-anchor:middle;fill:#222222;stroke:none;stroke-width:0"
+           id="text32"
+           transform="rotate(-90,22.3,240)"
+           font-style="italic"
+           font-size="18"
+           y="240"
+           x="22.299999">TP Rate</text>
+        <path
+           style="fill:#ffffff;fill-opacity:0;stroke:none;stroke-width:0"
+           id="path34"
+           d="M 7,480 V 0 h 18 v 480 z" />
+      </g>
+    </g>
+    <g
+       id="g40" />
+  </g>
+</svg>

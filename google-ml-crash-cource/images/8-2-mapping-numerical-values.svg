@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xml:space="preserve"
+   viewBox="174 127 960 400"
+   height="400"
+   width="960"
+   y="0px"
+   x="0px"
+   id="Layer_1"
+   version="1.1"><desc
+     id="desc2">An example of a feature that can be copied directly from the raw data</desc><metadata
+     id="metadata47"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+     id="defs45" /><style
+     id="style3"
+     type="text/css">
+	.fpf-st0{fill:#F4FF5F;}
+	.fpf-st1{fill:#FFF2CC;stroke:#424242;stroke-miterlimit:10;}
+	.fpf-st2{fill:#bebebe;}
+	.fpf-st3{font-family:'RobotoMono-Regular';}
+	.fpf-st4{font-size:21px;}
+	.fpf-st5{font-family:'Roboto-Regular';}
+	.fpf-st6{fill:#d9ead3;stroke:#424242;stroke-miterlimit:10;}
+</style><rect
+     style="fill:#f4ff5f"
+     id="rect5"
+     height="26.9"
+     width="155"
+     class="fpf-st0"
+     y="331"
+     x="213.7" /><g
+     transform="matrix(1.1846127,0,0,1,-76.55888,20)"
+     id="g7"><path
+       style="fill:#fff2cc;stroke:#424242;stroke-miterlimit:10"
+       id="path9"
+       d="m 423.9,263.9 v 0 c 0,6.6 8.4,11.9 18.7,11.9 h 22.5 L 414.7,308 526.8,275.7 h 125.5 c 5,0 9.7,-1.3 13.2,-3.5 3.5,-2.2 5.5,-5.3 5.5,-8.4 v 0 0 -17.8 -29.7 c 0,-6.6 -8.4,-11.9 -18.7,-11.9 H 526.9 465.1 v 0 h -22.5 c -10.3,0 -18.7,5.3 -18.7,11.9 V 246 Z"
+       class="fpf-st1" /></g><text
+     style="line-height:0%"
+     y="299.38199"
+     x="204.43021"
+     id="text11"><tspan
+       style="font-size:21px;font-family:RobotoMono-Regular;fill:#bebebe"
+       id="tspan13"
+       class="fpf-st2 fpf-st3 fpf-st4"
+       y="299.38199"
+       x="204.43021">0 : {</tspan><tspan
+       style="font-size:21px;font-family:RobotoMono-Regular;fill:#bebebe"
+       id="tspan15"
+       class="fpf-st2 fpf-st3 fpf-st4"
+       y="324.582"
+       x="204.43021">  house_info : {</tspan><tspan
+       style="font-size:21px;font-family:RobotoMono-Regular"
+       id="tspan17"
+       class="fpf-st3 fpf-st4"
+       y="349.78201"
+       x="204.43021">    num_rooms: 6</tspan><tspan
+       style="font-size:21px;font-family:RobotoMono-Regular;fill:#bebebe"
+       id="tspan19"
+       class="fpf-st2 fpf-st3 fpf-st4"
+       y="374.98199"
+       x="204.43021">    num_bedrooms: 3</tspan><tspan
+       style="font-size:21px;font-family:RobotoMono-Regular;fill:#bebebe"
+       id="tspan21"
+       class="fpf-st2 fpf-st3 fpf-st4"
+       y="400.18201"
+       x="204.43021">    street_name: &quot;Shorebird Way&quot;</tspan><tspan
+       style="font-size:21px;font-family:RobotoMono-Regular;fill:#bebebe"
+       id="tspan23"
+       class="fpf-st2 fpf-st3 fpf-st4"
+       y="425.38199"
+       x="204.43021">    num_basement_rooms: -1</tspan><tspan
+       style="font-size:21px;font-family:RobotoMono-Regular;fill:#bebebe"
+       id="tspan25"
+       class="fpf-st2 fpf-st3 fpf-st4"
+       y="450.582"
+       x="204.43021">    ...</tspan><tspan
+       style="font-size:21px;font-family:RobotoMono-Regular;fill:#bebebe"
+       id="tspan27"
+       class="fpf-st2 fpf-st3 fpf-st4"
+       y="475.78198"
+       x="204.43021">  }</tspan><tspan
+       style="font-size:21px;font-family:RobotoMono-Regular;fill:#bebebe"
+       id="tspan29"
+       class="fpf-st2 fpf-st3 fpf-st4"
+       y="500.98199"
+       x="204.43021">}</tspan></text>
+<text
+     style="font-size:21px;line-height:0%;font-family:RobotoMono-Regular"
+     y="345.6449"
+     x="771.31299"
+     id="text37"
+     class="fpf-st3 fpf-st4">num_rooms_feature = [ 6.0 ]</text>
+<g
+     transform="matrix(2.2353645,0,0,1.5044679,-484.40028,-37.68972)"
+     id="g27"><path
+       style="font-family:Roboto-Regular;fill:#d9ead3;stroke:#424242;stroke-miterlimit:10"
+       id="path29"
+       d="m 454.4,240 h 69.4 v -15.6 l 28.1,31.2 -28.1,31.2 v -15.6 h -69.4 z"
+       class="fpf-st5" /></g><text
+     id="text842"
+     y="352.42966"
+     x="539.33435"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       style="font-size:18.66666603px"
+       y="352.42966"
+       x="539.33435"
+       id="tspan840">Feature Engineering</tspan></text>
+<g
+     id="g890"
+     transform="translate(157.03704,144.2963)"><rect
+       style="fill:#c4eaf9;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect858"
+       width="221.59286"
+       height="55.925816"
+       x="48.539391"
+       y="9.9798899"
+       ry="15.828061" /><text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="67.539391"
+       y="50.752747"
+       id="text856"><tspan
+         id="tspan854"
+         x="67.539391"
+         y="50.752747">Raw Data</tspan></text>
+</g><rect
+     style="fill:#c4eaf9;fill-opacity:1;stroke:#000000;stroke-width:0.9598425;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect892"
+     width="203.66046"
+     height="56.061066"
+     x="827.63672"
+     y="154.20856"
+     ry="15.86634" /><text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="860.7478"
+     y="195.04904"
+     id="text896"><tspan
+       id="tspan894"
+       x="860.7478"
+       y="195.04904">Feature</tspan></text>
+<g
+     transform="translate(-14.148148,82.592593)"
+     id="g854"><text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="459.92593"
+       y="172.92593"
+       id="text844"><tspan
+         id="tspan842"
+         x="459.92593"
+         y="172.92593"
+         style="font-size:21.33333397px">Real-valued features</tspan></text>
+<text
+       id="text848"
+       y="192.92593"
+       x="459.92593"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-size:21.33333397px"
+         y="192.92593"
+         x="459.92593"
+         id="tspan846">can be copied over directly.</tspan></text>
+</g></svg>
