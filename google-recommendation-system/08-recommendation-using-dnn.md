@@ -75,7 +75,7 @@ DNN 의 입력값은 다음을 포함할 수 있음:
 ### Negative Sampling
 
 * 손실함수가 두 확률 벡터 $p, \hat{p}(x) \in \mathbb{R}^n$ (각각 실제 확률과 모델에서 예측한 확률) 을 비교하기 때문에 (하나의 쿼리 $x$ 에 대한) 손실의 기울기에 대한 계산은 corpus 의 크기 $n$ 이 엄청 클 때는 굉장히 오래 걸릴 수 있다.
-* 그렇기 때문에 ground truth vector 에 존재하는 아이템 (positive item) 에 대해서만 계산하도록 만들 수도 있으나, 이런 경우라면 아레에서 설명할 폴딩 (folding) 문제에 부딫힐 수 있다.
+* 그렇기 때문에 ground truth vector 에 존재하는 아이템 (positive item) 에 대해서만 계산하도록 만들 수도 있으나, 이런 경우라면 아래에서 설명할 폴딩 (folding) 문제에 부딫힐 수 있다.
 
 ---
 
