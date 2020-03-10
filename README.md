@@ -1,9 +1,11 @@
-# learning-materials
+# Learning Materials
 
-## Google Machine Learning Crash Course
+## Google - Machine Learning Crash Course
 
-## Google Recommendation Systems
+## Google - Recommendation Systems
 
 ## TidyTuesday
 
-## Coursera Databases and SQL for Data Science
+## Coursera - Databases and SQL for Data Science
+
+## Coursera - Recommendation Systems
