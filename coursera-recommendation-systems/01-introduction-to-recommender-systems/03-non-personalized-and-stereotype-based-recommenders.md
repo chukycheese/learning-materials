@@ -256,7 +256,7 @@ Billboard Top 200
 * $Score = log_{10}(max(1, |U-D|) + \frac{sign(U-D) \times t_{post}}{45000}$
   * 투표 수에 log 변환 적용
     * decrease marginal value of later votes
-  * 레딧에서의 시간은 초(second) 단위
+  * 레딧에서의 시간은 초(second) 단위 (epoch )
   * Downvote 이 더 많은 아이템은 사라짐
   * Time vs vote impact independent of age
   * 뉴스 아이템은 점수를 매기지만 코멘트는 점수를 매기지 않음
