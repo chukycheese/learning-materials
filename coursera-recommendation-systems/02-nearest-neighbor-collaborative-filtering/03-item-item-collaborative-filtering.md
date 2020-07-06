@@ -188,7 +188,7 @@ $s(u, i) = \frac{\sum_{j \in N}w_{ij}r_{uj}}{\sum_{j \in N} |w_{ij}|}$
 
 ### Model Building Algorithm
 
-![02-1-model-building-algorithm](../images/02-1-model-building-algorithm.png)
+![03-1-model-building-algorithm](../images/03-1-model-building-algorithm.png)
 
 ### Conclusion
 
