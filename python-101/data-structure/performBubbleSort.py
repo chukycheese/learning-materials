@@ -1,18 +1,17 @@
 import random
 
 N = 10
-firstNumbers = list(range(N))
-random.shuffle(firstNumbers)
+lstNumbers = list(range(N))
+random.shuffle(lstNumbers)
 
-print(firstNumbers)
+print(lstNumbers)
 
-def performBubbleSort(firstNumbers):
-    for itr1 in range(len(firstNumbers)):
-        for itr2 in range(itr1 + 1, N):
-            if firstNumbers[itr1] < firstNumbers[itr2]:
-                firstNumbers[itr1], firstNumbers[itr2] = \
-                    firstNumbers[itr2], firstNumbers[itr1]
+def performBubbleSort(lstNumbers):
+    for itr1 in range(N):
+        for itr2 in range(N - 1):
+            if lstNumbers[itr2] > lstNumbers[itr2 + 1]:
+                lstNumbers[itr2], lstNumbers[itr2 + 1] = \
+                    lstNumbers[itr2 + 1], lstNumbers[itr2]
+    return lstNumbers
 
-    return firstNumbers
-
-print(performBubbleSort(firstNumbers))
+print(performBubbleSort(lstNumbers))

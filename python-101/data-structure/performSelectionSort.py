@@ -2,18 +2,17 @@
 import random
 
 N = 10
-firstNumbers = list(range(N))
-random.shuffle(firstNumbers)
+lstNumbers = list(range(N))
+random.shuffle(lstNumbers)
 
-print(firstNumbers)
+print(lstNumbers)
 
-def performSelectionSort(firstNumbers):
-    for i in range(len(firstNumbers) - 1):
-        min_idx = i
-        for j in range(i + 1, len(firstNumbers)):
-            if firstNumbers[j] < firstNumbers[min_idx]:
-                min_idx = j
-        firstNumbers[i], firstNumbers[min_idx] = firstNumbers[min_idx], firstNumbers[i]
-    return firstNumbers
+def performSelectionSort(lstNumbers):
+    for itr1 in range(0, N):
+        for itr2 in range(itr1 + 1, N):
+            if lstNumbers[itr1] < lstNumbers[itr2]:
+                lstNumbers[itr1], lstNumbers[itr2] =\
+                    lstNumbers[itr2], lstNumbers[itr1]
+    return lstNumbers
 
-print(performSelectionSort(firstNumbers))
+print(performSelectionSort(lstNumbers))

@@ -42,6 +42,12 @@ class SinglyLinkedList:
     def getSize(self):
         return self.size
 
+    def isEmpty(self):
+        if self.size == 0:
+            return True
+        else:
+            return False
+
 # list1 = singlyLinkedList()
 # list1.insertAt('a', 0)
 # list1.insertAt('b', 1)

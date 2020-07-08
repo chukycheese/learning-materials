@@ -2,13 +2,16 @@
 from SinglyLinkedList import SinglyLinkedList
 
 class Queue(object):
-    firstInstance = SinglyLinkedList()
+    lstInstance = SinglyLinkedList()
 
     def dequeue(self):
-        return self.firstInstance.removeAt(0)
+        return self.lstInstance.removeAt(0)
     
     def enqueue(self, value):
-        self.firstInstance.insertAt(value, self.firstInstance.getSize())
+        self.lstInstance.insertAt(value, self.lstInstance.getSize())
+    
+    def isEmpty(self):
+        self.lstInstance.isEmpty
 
 queue = Queue()
 queue.enqueue('a')
